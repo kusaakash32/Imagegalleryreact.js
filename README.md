@@ -1,1 +1,1 @@
-# Imagegalleryreact.js
+# Imagegallerymainreact.js
